@@ -16,8 +16,8 @@ include("includes/head.php");
   <header>
    <a href="index.php" id="logo">
     <h1>
-      <span class="color_yellow">Ideale</span>
-      <span class="color_blue">Demarchi</span>
+      <span class="color_yellow">Auguri</span>
+      <span class="color_blue">Residence</span>
     </h1>
   </a>
   <h2 class="slogan color_blue">Breve Lançamento &middot; 
@@ -47,17 +47,17 @@ include("includes/head.php");
 <dd id="page2">
   <div class="inner">
     <article>
-      <img src="images/ideale-logo.png" class="alignright_pic img_ideale">
-      <h1 class="color_blue">Residencial Ideale Demarchi</h1>
+      <!-- <img src="images/ideale-logo.png" class="alignright_pic img_ideale"> -->
+      <h1 class="color_blue">Auguri Residence</h1>
       <div id="pane1" class="scroll-pane about" >
-       <img src="images/about/img01.png" class="alignright20 img_200">
+       <!-- <img src="images/about/img01.png" class="alignright20 img_200"> -->
        <p>Através de uma parceria das maiores construtoras e incorporadoras do mercado, o Ideale é o mais novo empreendimento imobiliário da região do Demarchi.</p>
 
        <table class="table table-bordered table-condensed">
         <thead>
           <tr>
             <th>Empreendimento</th>
-            <th>Ideale Demarchi</th>
+            <th>Auguri Residence</th>
           </tr>
         </thead>
         <tbody>
@@ -187,16 +187,18 @@ include("includes/head.php");
                 <dd id="page4">
                   <div class="inner">
                     <article>
-                      <img src="images/ideale-logo.png" class="alignright_pic img_ideale">
+                      <img src="images/auguri-logo.png" class="alignright_pic img_ideale">
                       <h1 class="color_blue">Localização</h1>
-
+                      <b>Rua</b> Comendador Carlo Mário Gardano, 203 <br> 
+                      <b>Bairro</b> Santa Rita de Cássia, São Bernardo do Campo
+                        <br /><br />
                       <div id="pane2" class="scroll-pane" >
                        <h5>Diferenciais da Micro-região!</h5>
 
                        <div class="location">
                         <div class="col_left">
                          <img src="images/icons/supermercado.png" class="alignleft_pic" alt="" >
-                         <h5 class="color_black">Supermercados: <span class="color_orange smart_caps">Extra e Carrefour 2km.</span></h5>
+                         <h5 class="color_black">Supermercados: <span class="color_orange smart_caps">Walmart e Carrefour 1km.</span></h5>
 
                          <div class="clear"></div>
 
@@ -211,32 +213,35 @@ include("includes/head.php");
                          <div class="clear"></div>
                          
                          <img src="images/icons/industrias.png" class="alignleft_pic" alt="" >
-                         <h5 class="color_black">Ampla rede de transporte urbano: Linhas municipais e intermunicipais de ônibus para as principais regiões de SBC e ABC; 3km do Terminal Urbano de Ferrazópolis.</h5>
+                         <h5 class="color_black">Terminal Metropolitano Ferrazópolis - EMTU 400M </h5>
 
                        </div>
 
                        <div class="col_right">
 
-                         <img src="images/icons/money.png" class="alignleft_pic" alt="" >
-                         <h5 class="color_black">Agências bancárias: <span class="color_orange smart_caps">Bradesco e Santander.</span></h5>
-
-                         <div class="clear"></div>
-
                          <img src="images/icons/food.png" class="alignleft_pic" alt="" >
                          <h5 class="color_black">Restaurantes.</h5>
+
+                          <div class="clear"></div>
+                         
+                         <img src="images/icons/medico.png" class="alignleft_pic" alt="" >
+                         <h5 class="color_black">Hospital Assunção e Pronto Socorro Central  600m</h5>
                          
                          <div class="clear"></div>
 
+                         <img src="images/icons/shop.png" class="alignleft_pic" alt="" >
+                         <h5 class="color_black">Shopping: <span class="color_orange smart_caps">Plazza Shopping 1km</span></h5>
+
+                         <!-- <div class="clear"></div>
                          <img src="images/icons/bus.png" class="alignleft_pic" alt="" >
-                         <h5 class="color_black">Centros Industriais: Basf/Suvinil 700m; VW 2.4km e Scania 5.4km.</h5>
+                         <h5 class="color_black">Centros Industriais: Basf/Suvinil 700m; VW 2.4km e Scania 5.4km.</h5> -->
 
                          <div class="clear"></div>
-
-                         <img src="images/icons/avenue2.png" class="alignleft_pic" alt="" >
-                         <h5 class="color_black">Acessibilidade Ímpar: 2.2km da Anchieta; 6km da Imigrantes e 2.5km do Rodoanel.</h5>
-
+                         <!-- VERIFICAR -->
+                        <!--  <img src="images/icons/avenue2.png" class="alignleft_pic" alt="" >
+                         <h5 class="color_black">Acessibilidade Ímpar: 2.2km da Anchieta; 6km da Imigrantes e 2.5km do Rodoanel.</h5> -->
                          <img src="images/icons/city.png" class="alignleft_pic" alt="" >
-                         <h5 class="color_black">5,5 km ou 11 minutos do Centro de São Bernardo.</h5>
+                         <h5 class="color_black">3 km ou 10 minutos do Centro de São Bernardo.</h5>
 
                        </div> 
 
