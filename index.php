@@ -151,32 +151,89 @@ include("includes/head.php");
                   </li>
 
                   <li>
-                    <a rel="prettyPhoto" href="images/space/big-04.jpg" title="<h5>3 Torres</h5>">
-                      <img src="images/space/thm-04.jpg" alt="" title="<h4>3 Torres</h4>3 Torres Residenciais"></a>
+                    <a rel="prettyPhoto" href="images/space/duas_torre.jpg" title="<h5>2 Torres</h5>">
+                      <img src="images/space/duas_torre.jpg" alt="Apartamento 2 torres" style="opacity: 1; height: 220px; width: 305px;" title="<h4>2 Torres</h4>&middot; 2 Torres Residenciais"></a>
                     </li>
-                    <li>
-                      <a rel="prettyPhoto" href="images/space/big-08.jpg" title="<h5>Área de Lazer</h5>">
-                        <img src="images/space/thm-08.jpg" alt="" title="<h4>Área de Lazer</h4>Área de Lazer"></a>
-                      </li>
-                      <li>
-                        <a rel="prettyPhoto" href="images/space/big-05.jpg" title="<h5>Apartamento Tipo - Final 01 &middot; 52 m²</h5>">
-                          <img src="images/space/thm-05.jpg" alt="" title="<h4>Apartamento Tipo - Final 01 &middot; 52 m²</h4>Apartamento Tipo - Final 01 &middot; 52 m²"></a>
-                        </li>
-                        <li>
-                          <a rel="prettyPhoto" href="images/space/big-06.jpg" title="<h5>Cobertura - Área de Lazer</h5>">
-                            <img src="images/space/thm-06.jpg" alt="" title="<h4>Cobertura - Área de Lazer</h4>
-                            <br /> &middot; Fitness (C)
-                            <br /> &middot; Espaço Gourmet (B)
-                            <br /> &middot; Solarium
-                            <br /> &middot; Salão de Jogos (A)"></a>
-                          </li>    
-                          <li>
-                            <a rel="prettyPhoto" href="images/space/big-07.jpg" title="<h5>Pavimento Térreo - Lazer</h5>">
-                              <img src="images/space/thm-07.jpg" alt="" title="<h4>Pavimento Térreo - Lazer</h4>Pavimento Térreo - Lazer"></a>
-                            </li>   
-                            <li>
 
-                            </li>                
+                    <li>
+                      <a rel="prettyPhoto" href="images/space/portaria.jpg" title="<h5>Portaria</h5>">
+                        <img src="images/space/portaria.jpg" style="opacity: 1; height: 220px; width: 305px;" alt="Portaria Auguri" title="<h4>Portaria</h4>&middot;Perspectiva da Portaria"></a>
+                     </li>
+
+                     <li>
+                      <a rel="prettyPhoto" href="images/space/salao_festa.jpg" title="<h5>Área de Lazer</h5>">
+                        <img src="images/space/salao_festa.jpg" style="opacity: 1; height: 220px; width: 305px;" alt="Salão de festa - Apartamento" title="<h4>Salão de Festa</h4>&middot;Salão de Festa"></a>
+                     </li>
+
+                     <li>
+                      <a rel="prettyPhoto" href="images/space/sala_jogos.jpg" title="<h5Sala de JogosJogos</h5>">
+                        <img src="images/space/sala_jogos.jpg" style="opacity: 1; height: 220px; width: 305px;" alt="Sala de jogos - Apartamento" title="<h4>Sala de Jogos</h4>&middot;Sala de Jogos"></a>
+                     </li>
+
+                     <li>
+                      <a rel="prettyPhoto" href="images/space/brinquedoteca.jpg" title="<h5>Brinquedoteca</h5>">
+                        <img src="images/space/brinquedoteca.jpg" style="opacity: 1; height: 220px; width: 305px;" alt="Brinquedoteca - Apartamento" title="<h4>Brinquedoteca</h4>&middot;Brinquedoteca"></a>
+                     </li>
+
+                     <li>
+                      <a rel="prettyPhoto" href="images/space/play.jpg" title="<h5>Play de Aventura</h5>">
+                        <img src="images/space/play.jpg" style="opacity: 1; height: 220px; width: 305px;" alt="Play de Aventura - Apartamento" title="<h4>Play de Aventura</h4>&middot;Play de Aventura"></a>
+                     </li>
+
+                     <li>
+                      <a rel="prettyPhoto" href="images/space/espaco_gourmet.jpg" title="<h5>Espaço Gourmet</h5>">
+                        <img src="images/space/espaco_gourmet.jpg" style="opacity: 1; height: 220px; width: 305px;" alt="Espaço Gourmet - Apartamento" title="<h4>Espaço Gourmet</h4>&middot;Espaço Gourmet"></a>
+                     </li>
+
+                     <li>
+                      <a rel="prettyPhoto" href="images/space/fitiness.jpg" title="<h5>Salão de Fitiness</h5>">
+                        <img src="images/space/fitiness.jpg" style="opacity: 1; height: 220px; width: 305px;" alt="Salão de Fitiness - Apartamento" title="<h4>Salão de Fitiness</h4>&middot;Salão de Fitiness"></a>
+                     </li>
+
+                     <li>
+                      <a rel="prettyPhoto" href="images/space/varanda.jpg" title="<h5>Varanda</h5>">
+                        <img src="images/space/varanda.jpg" style="opacity: 1; height: 220px; width: 305px;" alt="varanda - Apartamento" title="<h4>Varanda</h4>&middot;Varanda"></a>
+                     </li>
+
+                      <!-- PLANTA DE 71,50 M² (PONTAS) COM 3ds/1st -->
+                      <li>
+                        <a rel="prettyPhoto" href="images/space/planta_ponta.jpg" title="<h5>Plata do Apartamento &middot; 71,50 m²</h5>">
+                          <img src="images/space/planta_ponta.jpg" style="opacity: 1; height: 220px; width: 305px; alt="Planta apartamento 71,50 m²" title="<h4>Plata do Apartamento</h4>&middot; 71,50 m² <br> &middot; 3 Dormitorios com uma Suite  <br> &middot; Ponta da Torre"></a>
+                        </li>
+
+                         <!-- PLANTA DE 70,57 M² (MEIO) COM 3ds/1st-->
+                      <li>
+                        <a rel="prettyPhoto" href="images/space/planta_meio.jpg" title="<h5>Plata do Apartamento &middot; 70,57 m²</h5>">
+                          <img src="images/space/planta_meio.jpg" style="opacity: 1; height: 220px; width: 305px; alt="Planta apartamento 70,57 m²" title="<h4>Plata do Apartamento</h4>&middot; 70,57 m² <br> &middot; 3 Dormitorios com uma Suite  <br> &middot; Meio da Torre"></a>
+                        </li>
+
+                          <!-- PLANTA DE 71,50 M² Com Sala Ampliada-2ds/st -->
+
+                         <li>
+                        <a rel="prettyPhoto" href="images/space/planta_71_sala_ampliada.jpg" title="<h5>Plata do Apartamento &middot; 71,50 m²</h5>">
+                          <img src="images/space/planta_71_sala_ampliada.jpg" style="opacity: 1; height: 220px; width: 305px; alt="Planta apartamento 71,50 m²" title="<h4>Plata do Apartamento</h4>&middot; 71,50 m² <br> &middot; 2 Dormitorios com uma Suite <br> &middot; Sala Ampliada"></a>
+                        </li>
+
+                          <!-- PLANTA DE 70,57 M² Com Sala Ampliada-2ds/st -->
+
+                         <li>
+                        <a rel="prettyPhoto" href="images/space/planta_70_sala_ampliada.jpg" title="<h5>Plata do Apartamento &middot; 70,57 m²</h5>">
+                          <img src="images/space/planta_70_sala_ampliada.jpg" style="opacity: 1; height: 220px; width: 305px; alt="Planta apartamento 70,57 m²" title="<h4>Plata do Apartamento</h4>&middot; 70,57 m² <br> &middot; 2 Dormitorios com uma Suite <br> &middot; Sala Ampliada"></a>
+                        </li>
+
+
+                          <!-- GARDEN DE 131 M² COM 3ds/1st -->
+                        <li>
+                        <a rel="prettyPhoto" href="images/space/garden_131.jpg" title="<h5>Garden &middot; 131 m²</h5>">
+                          <img src="images/space/garden_131.jpg" style="opacity: 1; height: 220px; width: 305px; alt="Garden 131 m²" title="<h4>Garden</h4>&middot; 131 m² <br> &middot; 3 Dormitorios com uma Suite"></a>
+                        </li>
+
+                          <!-- GARDEN DE 138,61 M² COM 3ds/1st -->
+                        <li>
+                        <a rel="prettyPhoto" href="images/space/garden_138.jpg" title="<h5>Garden &middot; 138,61 m²</h5>">
+                          <img src="images/space/garden_138.jpg" style="opacity: 1; height: 220px; width: 305px; alt="Garden 138,61 m²" title="<h4>Garden</h4>&middot; 138,61 m² <br> &middot; 3 Dormitorios com uma Suite"></a>
+                        </li>
+                 
                           </ul>
                         </div>
                         <div class="gallery_nav"><a class="buttons prev" href="#">left</a><a class="buttons next" href="#">right</a></div>
