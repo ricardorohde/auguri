@@ -24,7 +24,7 @@
                 $mail->Password = 'xxxx';
                 $mail->SMTPSecure = "TLS";
                 //dados do e-mail
-                $mail->Subject = "Contato - Ideale Demarchi";
+                $mail->Subject = "Contato - Auguri Residence";
                 $mail->From = $email; 
                 $mail->FromName = $name ;
                 $mail->AddAddress('xxxxxxx');

@@ -259,9 +259,9 @@ include("includes/head.php");
              <dd id="page5">
               <div class="inner" >
                 <article>
-                  <img src="images/ideale-logo.png" class="alignright_pic img_ideale">
+                  <img src="images/auguri-logo.png" class="alignright_pic img_ideale">
                   <h1 class="color_blue">Contato</h1>
-                  <h6>Entre em contato com o corretor e agende uma visita, conheça o Residencial Ideale Demarchi.</h6>
+                  <h6>Entre em contato com o corretor e agende uma visita, conheça o Auguri Residence.</h6>
                   <form id="contact_form" name="contactform" method="post" action="" >     
 
                    <div class="clearfix">
