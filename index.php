@@ -228,12 +228,12 @@ include("includes/head.php");
 
                           <div class="clear"></div>
                          
-                         <img src="images/icons/medico.png" class="alignleft_pic" alt="" >
+                         <img src="images/icons/emergency.png" class="alignleft_pic" alt="" >
                          <h5 class="color_black">Hospital Assunção e Pronto Socorro Central  600m</h5>
                          
                          <div class="clear"></div>
 
-                         <img src="images/icons/shop.png" class="alignleft_pic" alt="" >
+                         <img src="images/icons/shopping.png" class="alignleft_pic" alt="" >
                          <h5 class="color_black">Shopping: <span class="color_orange smart_caps">Plazza Shopping 1km</span></h5>
 
                          <!-- <div class="clear"></div>
