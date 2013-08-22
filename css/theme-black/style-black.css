@@ -612,7 +612,7 @@ article {
 #gallery .overview li {
 	float: left;
 	margin: 0 15px 0 0;
-	width: 190px;
+	/*width: 190px; alterado Zyon */
 	height: 220px;
 }
 #gallery .overview li a {
@@ -624,7 +624,7 @@ article {
 	border-radius: 15px;
 }
 div.wrapper {
-	width:190px;
+	/*width:190px; alterado zyon*/
 	height:220px;
 	overflow:hidden;
 	position:relative;

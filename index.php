@@ -124,28 +124,32 @@ include("includes/head.php");
 <dd id="page3">
   <div class="inner">
     <article>
-      <img src="images/ideale-logo.png" class="alignright_pic img_ideale">
+      <img src="images/auguri-logo.png" class="alignright_pic img_ideale">
       <h1 class="color_blue">Lazer e Plantas</h1>
       <h6>Lazer completo no Térreo e na Cobertura.</h6>
       <div id="gallery">
         <div class="viewport">
 
           <ul class="overview" id="firstGallery">
+            
             <li>
-              <a rel="prettyPhoto" href="images/space/big-01.jpg" title="<h5>Piscina Adulto com Raia e Infantil</h5>">
-                <img src="images/space/thm-01.jpg" alt="" title="<h4>Piscina Adulto e Infantil</h4>
-                <br /> &middot; Piscina Adulto com raia
-                <br /> &middot; Piscina Infantil
-                <br /> &middot; Vestiário"></a>
+              <a rel="prettyPhoto" href="images/space/piscina.jpg" title="<h5>Piscina Adulto e Infantil</h5>">
+                <img src="images/space/piscina.jpg" h="190px" alt="Apto piscina" style="opacity: 1; height: 220px; width: 305px;" title="<h4>Piscina Adulto e Infantil</h4>
+                      &middot; Piscina Adulto
+                <br /> &middot; Piscina Infantil" />
+                </a>
               </li>
+            
               <li>
-                <a rel="prettyPhoto" href="images/space/big-02.jpg" title="<h5>Mini Quadra Poliesportiva</h5>">
-                  <img src="images/space/thm-02.jpg" alt="" title="<h4>Mini Quadra Poliesportiva</h4>Mini Quadra Poliesportiva no térreo."></a>
+                <a rel="prettyPhoto" href="images/space/quadra.jpg" title="<h5>Quadra Poliesportiva</h5>">
+                  <img src="images/space/quadra.jpg" alt="Apto quadra" style="opacity: 1; height: 220px; width: 305px;" title="<h4>Quadra Poliesportiva</h4>&middot; Quadra Poliesportiva no térreo."></a>
                 </li>
+
                 <li>
-                  <a rel="prettyPhoto" href="images/space/big-03.jpg" title="<h5>3 Churrasqueiras &middot; Playground &middot; Salão de Festas</h5>">
-                    <img src="images/space/thm-03.jpg" alt="" title="<h4>Churrasqueiras &middot; Playground &middot; Salão de Festas</h4>3 Churrasqueiras &middot; Playground &middot; Salão de Festas"></a>
+                  <a rel="prettyPhoto" href="images/space/churrasqueira.jpg" title="<h5>Churrasqueira</h5>">
+                    <img src="images/space/churrasqueira.jpg" alt="Churrasqueira" style="opacity: 1; height: 220px; width: 305px;" title="<h4>Churrasqueira</h4>&middot; Churrasqueiras com forno de pizza "></a>
                   </li>
+
                   <li>
                     <a rel="prettyPhoto" href="images/space/big-04.jpg" title="<h5>3 Torres</h5>">
                       <img src="images/space/thm-04.jpg" alt="" title="<h4>3 Torres</h4>3 Torres Residenciais"></a>
