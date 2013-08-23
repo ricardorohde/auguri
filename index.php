@@ -34,9 +34,9 @@ include("includes/head.php");
   <dd id="page1">
     <div class="inner">
      <div id="slider">
-      <img src="images/slider/ideale01.jpg" alt=""  title="<h1>Piscina Adulto e Infantil</h1><p>Com divisão de raia na adulto.</p>">
-      <img src="images/slider/ideale02.jpg" alt=""  title="<h1>Mini Quadra <br /><br />Poliesportiva</h1>">
-      <img src="images/slider/ideale03.jpg" alt=""  title="<h1>Churrasqueiras &middot; Playground <br /><br />&middot; Salão de Festas</h1>">
+      <img src="images/slider/duas_torre.jpg" style="width: 650px; height: 440px" alt="Auguri Residence"  title="<h1>Auguri Residence</h1><p>Fachada 2 Torres.</p>">
+      <img src="images/slider/fitiness.jpg" alt="Auguri Residence"  title="<h1>Salão De Fitinnes.</h1>">
+      <img src="images/slider/espaco_gourmet.jpg" alt="Auguri Residence"  title="<h1>Espaço Gourmet.</h1>">
     </div>
   </div>
 </dd>
