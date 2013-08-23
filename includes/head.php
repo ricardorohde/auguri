@@ -3,9 +3,11 @@
 <head>
   <meta charset="utf-8">
   <title>Auguri | Residence</title>
-  <meta name="description" content=" FAZER ">
-  <!-- <meta name="keywords" content="idealeabcd, apto no abc, imoveis no abc, imobiliarias no abc, ideale, imoveis, imovel, predio, residencial, casa, imoveisabc, imoveisabcd, LMG Imóveis, imobiliárias em São Bernardo do Campo, imóveis em São Bernardo do Campo, casas em São Bernardo do Campo, apartamentos em São Bernardo do Campo, sobrados em São Bernardo do Campo, terrenos em São Bernardo do Campo, galpões em São Bernardo do Campo, chácaras em São Bernardo do Campo, imobiliárias no ABC, imóveis no ABC, casas no ABC, apartamentos no ABC, sobrados no ABC, terrenos no ABC, galpões no ABC, chácaras no ABC, São Bernardo do Campo, Guia de imóveis ABC, Guia de Imóveis SP, SP, ABC, Guia de Imóveis, Imobiliária, Imóveis, Apartamento, Casa, Sobrado, Comércio, Comercial">
-  <meta name="robots" content="index, follow" /> -->
+  <meta name="description" content="Auguri Residence empreendimento imobiliário de apartamentos localizados em São Bernardo do Campo. 
+  Ligue (11)2835-2311 ou (11)96241-9729 e agende sua visita através de nosso atendimento personalizado!">
+  
+   <meta name="keywords" content="idealeabcd, apto no abc, imoveis no abc, imobiliarias no abc, Auguri, imoveis, imovel, predio, residencial, casa, imoveisabc, imoveisabcd, LMG Imóveis, imobiliárias em São Bernardo do Campo, imóveis em São Bernardo do Campo, casas em São Bernardo do Campo, apartamentos em São Bernardo do Campo, sobrados em São Bernardo do Campo, terrenos em São Bernardo do Campo, galpões em São Bernardo do Campo, chácaras em São Bernardo do Campo, imobiliárias no ABC, imóveis no ABC, casas no ABC, apartamentos no ABC, sobrados no ABC, terrenos no ABC, galpões no ABC, chácaras no ABC, São Bernardo do Campo, Guia de imóveis ABC, Guia de Imóveis SP, SP, ABC, Guia de Imóveis, Imobiliária, Imóveis, Apartamento, Casa, Sobrado, Comércio, Comercial">
+  <meta name="robots" content="index, follow" />
 
   <!-- CSS files -->
   <link rel="stylesheet" href="css/reset.css" />
