@@ -63,55 +63,50 @@ include("includes/head.php");
         <tbody>
           <tr>
             <td>Área Terreno</td>
-            <td>5.630 m²</td>
+            <td>7.620 m²</td>
           </tr>
           <tr>
             <td>Torres</td>
-            <td>03</td>
+            <td>02</td>
           </tr>
           <tr>
             <td>Pavimentos</td>
-            <td>20 Pavtos / Torre</td>
+            <td>17 Pavtos / Torre</td>
           </tr>
           <tr>
             <td>Área Privativa do Apto</td>
-            <td>52 m²</td>
+            <td>70 á 138 m²</td>
           </tr>
           <tr>
             <td>Unidades / Pavto Tipo</td>
-            <td>04</td>
-          </tr>
-          <tr>
-            <td>Total de Apartamentos</td>
-            <td>243 Unidades</td>
-          </tr>
-          <tr>
-            <td>Lojas Comerciais</td>
             <td>08</td>
           </tr>
           <tr>
+            <td>Total de Apartamentos</td>
+            <td>282 Unidades</td>
+          </tr>
+          <tr>
             <td>Garagem</td>
-            <td>1 vaga de garagem em 2 sobresolos</td>
+            <td>2 vaga de garagem cobertas</td>
           </tr>
           <tr>
             <td>Data de Lançamento</td>
-            <td>Julho de 2013</td>
+            <td>Setembro de 2013</td>
           </tr>
           <tr>
             <td>Data de Entrega</td>
-            <td>Julho de 2016</td>
+            <td>Novembro de 2016</td>
           </tr>
         </tbody>
       </table>
       <h3>Porque comprar?</h3>
       <ul>
-        <li><span class="dropcapspot2">1</span>Qualidade comprovada na construção da Ekopar.</li>
-        <li><span class="dropcapspot2">2</span>Apartamento com plantas bem aproveitadas, sem corredores e sem desperdícios.</li>
-        <li><span class="dropcapspot2">3</span>Aproveitamento máximo da topografia</li>
-        <li><span class="dropcapspot2">4</span>Empreendimento  com característica  aspiracional.</li>
-        <li><span class="dropcapspot2">5</span>Lazer diferenciado para região (3 salões de festas com churrasqueira, mini quadra, piscina com raia de 25m2, academia, espaço gourmet).</li>
-        <li><span class="dropcapspot2">6</span>Sacada com bancada e rede hidráulica.</li>
-        <li><span class="dropcapspot2">7</span>Lojas e Comércio no Térreo.</li>
+        <li><span class="dropcapspot2">1</span>Apartamento com plantas bem aproveitadas, sem corredores e sem desperdícios.</li>
+        <li><span class="dropcapspot2">2</span>Aproveitamento máximo da topografia</li>
+        <li><span class="dropcapspot2">3</span>Empreendimento  com característica  aspiracional.</li>
+        <li><span class="dropcapspot2">4</span>Lazer diferenciado para região (salão de festas com churrasqueira, mini quadra, piscina, academia, espaço gourmet).</li>
+   <!--      <li><span class="dropcapspot2">6</span>Sacada com bancada e rede hidráulica.</li> -->
+<!--         <li><span class="dropcapspot2">7</span>Lojas e Comércio no Térreo.</li> -->
       </ul>
 
     </article>
