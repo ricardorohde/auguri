@@ -51,7 +51,7 @@ include("includes/head.php");
       <h1 class="color_blue">Auguri Residence</h1>
       <div id="pane1" class="scroll-pane about" >
        <!-- <img src="images/about/img01.png" class="alignright20 img_200"> -->
-       <p>Através de uma parceria das maiores construtoras e incorporadoras do mercado, o Ideale é o mais novo empreendimento imobiliário da região do Demarchi.</p>
+       <p>Através de uma parceria das maiores construtoras e incorporadoras do mercado, o Auguri Residence é o mais novo empreendimento imobiliário.</p>
 
        <table class="table table-bordered table-condensed">
         <thead>
