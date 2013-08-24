@@ -1,6 +1,7 @@
 			<!-- footer start -->
 			<footer>
-			  <p class="privacy ">Copyright &copy; 2013 LMG Imóveis | Desenvolvido por:<a href="http://www.sprintdev.com.br/" target="_blank" rel=""> Sprint Dev </a> </p>
+			  <p class="privacy ">Copyright &copy; 2013 LMG Imóveis<br />
+                              <a href="http://www.sprintdev.com.br/" target="_blank" rel=""><img src="images/logo-colorido30x30" title="Sprint Dev" alt="Sprint Dev"></a></p>
 			</footer>
 			<!-- footer end -->
 			
