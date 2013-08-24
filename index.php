@@ -34,9 +34,11 @@ include("includes/head.php");
   <dd id="page1">
     <div class="inner">
      <div id="slider">
-      <img src="images/slider/duas_torre.jpg" style="width: 650px; height: 440px" alt="Auguri Residence"  title="<h1>Auguri Residence</h1><p>Fachada 2 Torres.</p>">
-      <img src="images/slider/fitiness.jpg" alt="Auguri Residence"  title="<h1>Salão De Fitinnes.</h1>">
-      <img src="images/slider/espaco_gourmet.jpg" alt="Auguri Residence"  title="<h1>Espaço Gourmet.</h1>">
+      <img src="images/slider/auguri_1.jpg" alt="Auguri Residence"  title="<h1>Auguri Residence</h1><p>Fachada 2 Torres.</p>">
+      <img src="images/slider/auguri_2.jpg" alt="Auguri Residence"  title="<h1>Auguri Residence</h1><p>Fachada 2 Torres.</p>">
+      <img src="images/slider/auguri_3.jpg" alt="Auguri Residence"  title="<h1>Auguri Residence</h1><p>Fachada 2 Torres.</p>">
+      <img src="images/slider/auguri_4.jpg" alt="Auguri Residence"  title="<h1>Auguri Residence</h1><p>Fachada 2 Torres.</p>">
+      <img src="images/slider/auguri_5.jpg" alt="Auguri Residence"  title="<h1>Auguri Residence</h1><p>Fachada 2 Torres.</p>">
     </div>
   </div>
 </dd>
@@ -47,12 +49,11 @@ include("includes/head.php");
 <dd id="page2">
   <div class="inner">
     <article>
-      <!-- <img src="images/ideale-logo.png" class="alignright_pic img_ideale"> -->
+      <img src="images/auguri-logo.png" class="alignright_pic img_ideale">
       <h1 class="color_blue">Auguri Residence</h1>
       <div id="pane1" class="scroll-pane about" >
-       <!-- <img src="images/about/img01.png" class="alignright20 img_200"> -->
        <p>Através de uma parceria das maiores construtoras e incorporadoras do mercado, o Auguri Residence é o mais novo empreendimento imobiliário.</p>
-
+       <br />
        <table class="table table-bordered table-condensed">
         <thead>
           <tr>
@@ -75,7 +76,10 @@ include("includes/head.php");
           </tr>
           <tr>
             <td>Área Privativa do Apto</td>
-            <td>70 á 138 m²</td>
+            <td>&middot; 136 Aptos. Tipo 70m² - 3 dorms.(1 suíte)<br />
+                &middot; 136 Aptos. Tipo 71m² - 3 dorms.(1 suíte)<br />
+                &middot; 136 Garden - 131m² - 3 dorms.(1 suíte)<br />
+                &middot; 136 Garden - 138m² - 3 dorms.(1 suíte)<br />
           </tr>
           <tr>
             <td>Unidades / Pavto Tipo</td>
@@ -87,7 +91,7 @@ include("includes/head.php");
           </tr>
           <tr>
             <td>Garagem</td>
-            <td>2 vaga de garagem cobertas</td>
+            <td>1 ou 2 Por Apartamento</td>
           </tr>
           <tr>
             <td>Data de Lançamento</td>
@@ -193,40 +197,40 @@ include("includes/head.php");
                       <!-- PLANTA DE 71,50 M² (PONTAS) COM 3ds/1st -->
                       <li>
                         <a rel="prettyPhoto" href="images/space/planta_ponta.jpg" title="<h5>Plata do Apartamento &middot; 71,50 m²</h5>">
-                          <img src="images/space/planta_ponta.jpg" style="opacity: 1; height: 220px; width: 305px; alt="Planta apartamento 71,50 m²" title="<h4>Plata do Apartamento</h4>&middot; 71,50 m² <br> &middot; 3 Dormitorios com uma Suite  <br> &middot; Ponta da Torre"></a>
+                          <img src="images/space/planta_ponta.jpg" style="opacity: 1; height: 220px; width: 305px; alt="Planta apartamento 71,50 m²" title="<h4>Plata do Apartamento</h4>&middot; 71,50 m² <br> &middot; 3 Dormitorios com uma Suite  <br> &middot; Ponta da Torre <br> &middot; Suite Ampla com Closet  <br> &middot; Varanda Grill"></a>
                         </li>
 
                          <!-- PLANTA DE 70,57 M² (MEIO) COM 3ds/1st-->
                       <li>
                         <a rel="prettyPhoto" href="images/space/planta_meio.jpg" title="<h5>Plata do Apartamento &middot; 70,57 m²</h5>">
-                          <img src="images/space/planta_meio.jpg" style="opacity: 1; height: 220px; width: 305px; alt="Planta apartamento 70,57 m²" title="<h4>Plata do Apartamento</h4>&middot; 70,57 m² <br> &middot; 3 Dormitorios com uma Suite  <br> &middot; Meio da Torre"></a>
+                          <img src="images/space/planta_meio.jpg" style="opacity: 1; height: 220px; width: 305px; alt="Planta apartamento 70,57 m²" title="<h4>Plata do Apartamento</h4>&middot; 70,57 m² <br> &middot; 3 Dormitorios com uma Suite  <br> &middot; Meio da Torre  <br> &middot; Suite Ampla com Closet  <br> &middot; Varanda Grill"></a>
                         </li>
 
                           <!-- PLANTA DE 71,50 M² Com Sala Ampliada-2ds/st -->
 
                          <li>
                         <a rel="prettyPhoto" href="images/space/planta_71_sala_ampliada.jpg" title="<h5>Plata do Apartamento &middot; 71,50 m²</h5>">
-                          <img src="images/space/planta_71_sala_ampliada.jpg" style="opacity: 1; height: 220px; width: 305px; alt="Planta apartamento 71,50 m²" title="<h4>Plata do Apartamento</h4>&middot; 71,50 m² <br> &middot; 2 Dormitorios com uma Suite <br> &middot; Sala Ampliada"></a>
+                          <img src="images/space/planta_71_sala_ampliada.jpg" style="opacity: 1; height: 220px; width: 305px; alt="Planta apartamento 71,50 m²" title="<h4>Plata do Apartamento</h4>&middot; 71,50 m² <br> &middot; 2 Dormitorios com uma Suite <br> &middot; Sala Ampliada com 2 ambiente <br> &middot; Suite Ampla com Closet  <br> &middot; Varanda Grill"></a>
                         </li>
 
                           <!-- PLANTA DE 70,57 M² Com Sala Ampliada-2ds/st -->
 
                          <li>
                         <a rel="prettyPhoto" href="images/space/planta_70_sala_ampliada.jpg" title="<h5>Plata do Apartamento &middot; 70,57 m²</h5>">
-                          <img src="images/space/planta_70_sala_ampliada.jpg" style="opacity: 1; height: 220px; width: 305px; alt="Planta apartamento 70,57 m²" title="<h4>Plata do Apartamento</h4>&middot; 70,57 m² <br> &middot; 2 Dormitorios com uma Suite <br> &middot; Sala Ampliada"></a>
+                          <img src="images/space/planta_70_sala_ampliada.jpg" style="opacity: 1; height: 220px; width: 305px; alt="Planta apartamento 70,57 m²" title="<h4>Plata do Apartamento</h4>&middot; 70,57 m² <br> &middot; 2 Dormitorios com uma Suite <br> &middot; Sala Ampliada com 2 ambiente <br> &middot; Varanda Grill"></a>
                         </li>
 
 
                           <!-- GARDEN DE 131 M² COM 3ds/1st -->
                         <li>
                         <a rel="prettyPhoto" href="images/space/garden_131.jpg" title="<h5>Garden &middot; 131 m²</h5>">
-                          <img src="images/space/garden_131.jpg" style="opacity: 1; height: 220px; width: 305px; alt="Garden 131 m²" title="<h4>Garden</h4>&middot; 131 m² <br> &middot; 3 Dormitorios com uma Suite"></a>
+                          <img src="images/space/garden_131.jpg" style="opacity: 1; height: 220px; width: 305px; alt="Garden 131 m²" title="<h4>Garden</h4>&middot; 131 m² <br> &middot; 3 Dormitorios com uma Suite<br> &middot; Suite Ampla com Closet"></a>
                         </li>
 
                           <!-- GARDEN DE 138,61 M² COM 3ds/1st -->
                         <li>
                         <a rel="prettyPhoto" href="images/space/garden_138.jpg" title="<h5>Garden &middot; 138,61 m²</h5>">
-                          <img src="images/space/garden_138.jpg" style="opacity: 1; height: 220px; width: 305px; alt="Garden 138,61 m²" title="<h4>Garden</h4>&middot; 138,61 m² <br> &middot; 3 Dormitorios com uma Suite"></a>
+                          <img src="images/space/garden_138.jpg" style="opacity: 1; height: 220px; width: 305px; alt="Garden 138,61 m²" title="<h4>Garden</h4>&middot; 138,61 m² <br> &middot; 3 Dormitorios com uma Suite<br> &middot; Suite Ampla com Closet"></a>
                         </li>
                  
                           </ul>
