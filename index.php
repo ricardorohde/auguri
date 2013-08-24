@@ -34,11 +34,16 @@ include("includes/head.php");
   <dd id="page1">
     <div class="inner">
      <div id="slider">
-      <img src="images/slider/auguri_1.jpg" alt="Auguri Residence"  title="<h1>Auguri Residence</h1><p>Fachada 2 Torres.</p>">
-      <img src="images/slider/auguri_2.jpg" alt="Auguri Residence"  title="<h1>Auguri Residence</h1><p>Fachada 2 Torres.</p>">
-      <img src="images/slider/auguri_3.jpg" alt="Auguri Residence"  title="<h1>Auguri Residence</h1><p>Fachada 2 Torres.</p>">
-      <img src="images/slider/auguri_4.jpg" alt="Auguri Residence"  title="<h1>Auguri Residence</h1><p>Fachada 2 Torres.</p>">
-      <img src="images/slider/auguri_5.jpg" alt="Auguri Residence"  title="<h1>Auguri Residence</h1><p>Fachada 2 Torres.</p>">
+      <img src="images/slider/auguri_1.jpg" alt="Auguri Residence"  title="<h1>Auguri Residence</h1><p>Perspectiva da Varanda</p>">
+      <img src="images/slider/auguri_6.jpg" alt="Auguri Residence"  title="<h1>Auguri Residence</h1><p>Fachada 2 Torres.</p>">
+
+      <img src="images/slider/auguri_2.jpg" alt="Auguri Residence"  title="<h1>Auguri Residence</h1><p>Perspectiva da Churrasqueira com forno para pizza.</p>">
+
+      <img src="images/slider/auguri_3.jpg" alt="Auguri Residence"  title="<h1>Auguri Residence</h1><p>Perspectiva do Espaço Gourmet</p>">
+
+      <img src="images/slider/auguri_4.jpg" alt="Auguri Residence"  title="<h1>Auguri Residence</h1><p>Perspectiva da Piscina</p>">
+
+      <img src="images/slider/auguri_5.jpg" alt="Auguri Residence"  title="<h1>Auguri Residence</h1><p>Perspectiva da Portaria.</p>">
     </div>
   </div>
 </dd>
