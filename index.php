@@ -16,7 +16,7 @@ include("includes/head.php");
   <header>
    <a href="index.php" id="logo">
     <h1>
-      <span class="color_yellow">Auguri</span>
+      <span class="color_write">Auguri</span>
       <span class="color_blue">Residence</span>
     </h1>
   </a>
@@ -137,105 +137,105 @@ include("includes/head.php");
           <ul class="overview" id="firstGallery">
             
             <li>
-              <a rel="prettyPhoto" href="images/space/piscina.jpg" title="<h5>Piscina Adulto e Infantil</h5>">
-                <img src="images/space/piscina.jpg" h="190px" alt="Apto piscina" style="opacity: 1; height: 220px; width: 305px;" title="<h4>Piscina Adulto e Infantil</h4>
+              <a rel="prettyPhoto" href="images/space/piscina.jpg" title="Piscina Adulto e Infantil">
+                <img src="images/space/piscina.jpg" alt="Apto piscina" class="img-lazer" title="<h4>Piscina Adulto e Infantil</h4>
                       &middot; Piscina Adulto
                 <br /> &middot; Piscina Infantil" />
                 </a>
               </li>
             
               <li>
-                <a rel="prettyPhoto" href="images/space/quadra.jpg" title="<h5>Quadra Poliesportiva</h5>">
-                  <img src="images/space/quadra.jpg" alt="Apto quadra" style="opacity: 1; height: 220px; width: 305px;" title="<h4>Quadra Poliesportiva</h4>&middot; Quadra Poliesportiva no térreo."></a>
+                <a rel="prettyPhoto" href="images/space/quadra.jpg" title="Quadra Poliesportiva">
+                  <img src="images/space/quadra.jpg" alt="Apto quadra" class="img-lazer" title="<h4>Quadra Poliesportiva</h4>&middot; Quadra Poliesportiva no térreo."></a>
                 </li>
 
                 <li>
-                  <a rel="prettyPhoto" href="images/space/churrasqueira.jpg" title="<h5>Churrasqueira</h5>">
-                    <img src="images/space/churrasqueira.jpg" alt="Churrasqueira" style="opacity: 1; height: 220px; width: 305px;" title="<h4>Churrasqueira</h4>&middot; Churrasqueiras com forno de pizza "></a>
+                  <a rel="prettyPhoto" href="images/space/churrasqueira.jpg" title="Churrasqueira">
+                    <img src="images/space/churrasqueira.jpg" alt="Churrasqueira" class="img-lazer" title="<h4>Churrasqueira</h4>&middot; Churrasqueiras com forno de pizza "></a>
                   </li>
 
                   <li>
-                    <a rel="prettyPhoto" href="images/space/duas_torre.jpg" title="<h5>2 Torres</h5>">
-                      <img src="images/space/duas_torre.jpg" alt="Apartamento 2 torres" style="opacity: 1; height: 220px; width: 305px;" title="<h4>2 Torres</h4>&middot; 2 Torres Residenciais"></a>
+                    <a rel="prettyPhoto" href="images/space/duas_torre.jpg" title="2 Torres">
+                      <img src="images/space/duas_torre.jpg" alt="Apartamento 2 torres" class="img-lazer" title="<h4>2 Torres</h4>&middot; 2 Torres Residenciais"></a>
                     </li>
 
                     <li>
-                      <a rel="prettyPhoto" href="images/space/portaria.jpg" title="<h5>Portaria</h5>">
-                        <img src="images/space/portaria.jpg" style="opacity: 1; height: 220px; width: 305px;" alt="Portaria Auguri" title="<h4>Portaria</h4>&middot;Perspectiva da Portaria"></a>
+                      <a rel="prettyPhoto" href="images/space/portaria.jpg" title="Portaria Auguri">
+                        <img src="images/space/portaria.jpg" class="img-lazer" alt="Portaria Auguri" title="<h4>Portaria</h4>&middot;Perspectiva da Portaria"></a>
                      </li>
 
                      <li>
-                      <a rel="prettyPhoto" href="images/space/salao_festa.jpg" title="<h5>Área de Lazer</h5>">
-                        <img src="images/space/salao_festa.jpg" style="opacity: 1; height: 220px; width: 305px;" alt="Salão de festa - Apartamento" title="<h4>Salão de Festa</h4>&middot;Salão de Festa"></a>
+                      <a rel="prettyPhoto" href="images/space/salao_festa.jpg" title="Salão de Festas">
+                        <img src="images/space/salao_festa.jpg" class="img-lazer" alt="Salão de Festas" title="<h4>Salão de Festas</h4>&middot;Salão de Festas"></a>
                      </li>
 
                      <li>
-                      <a rel="prettyPhoto" href="images/space/sala_jogos.jpg" title="<h5Sala de JogosJogos</h5>">
-                        <img src="images/space/sala_jogos.jpg" style="opacity: 1; height: 220px; width: 305px;" alt="Sala de jogos - Apartamento" title="<h4>Sala de Jogos</h4>&middot;Sala de Jogos"></a>
+                      <a rel="prettyPhoto" href="images/space/sala_jogos.jpg" title="Sala de Jogos">
+                        <img src="images/space/sala_jogos.jpg" class="img-lazer" alt="Sala de jogos" title="<h4>Sala de Jogos</h4>&middot;Sala de Jogos"></a>
                      </li>
 
                      <li>
-                      <a rel="prettyPhoto" href="images/space/brinquedoteca.jpg" title="<h5>Brinquedoteca</h5>">
-                        <img src="images/space/brinquedoteca.jpg" style="opacity: 1; height: 220px; width: 305px;" alt="Brinquedoteca - Apartamento" title="<h4>Brinquedoteca</h4>&middot;Brinquedoteca"></a>
+                      <a rel="prettyPhoto" href="images/space/brinquedoteca.jpg" title="Brinquedoteca">
+                        <img src="images/space/brinquedoteca.jpg" class="img-lazer" alt="Brinquedoteca" title="<h4>Brinquedoteca</h4>&middot;Brinquedoteca"></a>
                      </li>
 
                      <li>
-                      <a rel="prettyPhoto" href="images/space/play.jpg" title="<h5>Play de Aventura</h5>">
-                        <img src="images/space/play.jpg" style="opacity: 1; height: 220px; width: 305px;" alt="Play de Aventura - Apartamento" title="<h4>Play de Aventura</h4>&middot;Play de Aventura"></a>
+                      <a rel="prettyPhoto" href="images/space/play.jpg" title="Play de Aventura">
+                        <img src="images/space/play.jpg" class="img-lazer" alt="Play de Aventura" title="<h4>Play de Aventura</h4>&middot;Play de Aventura"></a>
                      </li>
 
                      <li>
-                      <a rel="prettyPhoto" href="images/space/espaco_gourmet.jpg" title="<h5>Espaço Gourmet</h5>">
-                        <img src="images/space/espaco_gourmet.jpg" style="opacity: 1; height: 220px; width: 305px;" alt="Espaço Gourmet - Apartamento" title="<h4>Espaço Gourmet</h4>&middot;Espaço Gourmet"></a>
+                      <a rel="prettyPhoto" href="images/space/espaco_gourmet.jpg" title="Espaço Gourmet">
+                        <img src="images/space/espaco_gourmet.jpg" class="img-lazer" alt="Espaço Gourmet" title="<h4>Espaço Gourmet</h4>&middot;Espaço Gourmet"></a>
                      </li>
 
                      <li>
-                      <a rel="prettyPhoto" href="images/space/fitiness.jpg" title="<h5>Salão de Fitiness</h5>">
-                        <img src="images/space/fitiness.jpg" style="opacity: 1; height: 220px; width: 305px;" alt="Salão de Fitiness - Apartamento" title="<h4>Salão de Fitiness</h4>&middot;Salão de Fitiness"></a>
+                      <a rel="prettyPhoto" href="images/space/fitiness.jpg" title="Salão de Fitiness">
+                        <img src="images/space/fitiness.jpg" class="img-lazer" alt="Salão de Fitiness" title="<h4>Salão de Fitiness</h4>&middot;Salão de Fitiness"></a>
                      </li>
 
                      <li>
-                      <a rel="prettyPhoto" href="images/space/varanda.jpg" title="<h5>Varanda</h5>">
-                        <img src="images/space/varanda.jpg" style="opacity: 1; height: 220px; width: 305px;" alt="varanda - Apartamento" title="<h4>Varanda</h4>&middot;Varanda"></a>
+                      <a rel="prettyPhoto" href="images/space/varanda.jpg" title="Varanda">
+                        <img src="images/space/varanda.jpg" class="img-lazer" alt="varanda" title="<h4>Varanda</h4>&middot;Varanda"></a>
                      </li>
 
                       <!-- PLANTA DE 71,50 M² (PONTAS) COM 3ds/1st -->
                       <li>
-                        <a rel="prettyPhoto" href="images/space/planta_ponta.jpg" title="<h5>Plata do Apartamento &middot; 71,50 m²</h5>">
-                          <img src="images/space/planta_ponta.jpg" style="opacity: 1; height: 220px; width: 305px; alt="Planta apartamento 71,50 m²" title="<h4>Plata do Apartamento</h4>&middot; 71,50 m² <br> &middot; 3 Dormitorios com uma Suite  <br> &middot; Ponta da Torre <br> &middot; Suite Ampla com Closet  <br> &middot; Varanda Grill"></a>
+                        <a rel="prettyPhoto" href="images/space/planta_ponta.jpg" title="Plata do Apartamento &middot; 71,50 m²">
+                          <img src="images/space/planta_ponta.jpg" class="img-lazer" alt="Planta apartamento 71,50 m²" title="<h4>Plata do Apartamento</h4>&middot; 71,50 m² <br> &middot; 3 Dormitorios com uma Suite  <br> &middot; Ponta da Torre <br> &middot; Suite Ampla com Closet  <br> &middot; Varanda Grill"></a>
                         </li>
 
                          <!-- PLANTA DE 70,57 M² (MEIO) COM 3ds/1st-->
                       <li>
-                        <a rel="prettyPhoto" href="images/space/planta_meio.jpg" title="<h5>Plata do Apartamento &middot; 70,57 m²</h5>">
-                          <img src="images/space/planta_meio.jpg" style="opacity: 1; height: 220px; width: 305px; alt="Planta apartamento 70,57 m²" title="<h4>Plata do Apartamento</h4>&middot; 70,57 m² <br> &middot; 3 Dormitorios com uma Suite  <br> &middot; Meio da Torre  <br> &middot; Suite Ampla com Closet  <br> &middot; Varanda Grill"></a>
+                        <a rel="prettyPhoto" href="images/space/planta_meio.jpg" title="Plata do Apartamento &middot; 70,57 m²">
+                          <img src="images/space/planta_meio.jpg" class="img-lazer" alt="Planta apartamento 70,57 m²" title="<h4>Plata do Apartamento</h4>&middot; 70,57 m² <br> &middot; 3 Dormitorios com uma Suite  <br> &middot; Meio da Torre  <br> &middot; Suite Ampla com Closet  <br> &middot; Varanda Grill"></a>
                         </li>
 
                           <!-- PLANTA DE 71,50 M² Com Sala Ampliada-2ds/st -->
 
                          <li>
-                        <a rel="prettyPhoto" href="images/space/planta_71_sala_ampliada.jpg" title="<h5>Plata do Apartamento &middot; 71,50 m²</h5>">
-                          <img src="images/space/planta_71_sala_ampliada.jpg" style="opacity: 1; height: 220px; width: 305px; alt="Planta apartamento 71,50 m²" title="<h4>Plata do Apartamento</h4>&middot; 71,50 m² <br> &middot; 2 Dormitorios com uma Suite <br> &middot; Sala Ampliada com 2 ambiente <br> &middot; Suite Ampla com Closet  <br> &middot; Varanda Grill"></a>
+                        <a rel="prettyPhoto" href="images/space/planta_71_sala_ampliada.jpg" title="Plata do Apartamento &middot; 71,50 m²">
+                          <img src="images/space/planta_71_sala_ampliada.jpg" class="img-lazer" alt="Planta apartamento 71,50 m²" title="<h4>Plata do Apartamento</h4>&middot; 71,50 m² <br> &middot; 2 Dormitorios com uma Suite <br> &middot; Sala Ampliada com 2 ambiente <br> &middot; Suite Ampla com Closet  <br> &middot; Varanda Grill"></a>
                         </li>
 
                           <!-- PLANTA DE 70,57 M² Com Sala Ampliada-2ds/st -->
 
                          <li>
-                        <a rel="prettyPhoto" href="images/space/planta_70_sala_ampliada.jpg" title="<h5>Plata do Apartamento &middot; 70,57 m²</h5>">
-                          <img src="images/space/planta_70_sala_ampliada.jpg" style="opacity: 1; height: 220px; width: 305px; alt="Planta apartamento 70,57 m²" title="<h4>Plata do Apartamento</h4>&middot; 70,57 m² <br> &middot; 2 Dormitorios com uma Suite <br> &middot; Sala Ampliada com 2 ambiente <br> &middot; Varanda Grill"></a>
+                        <a rel="prettyPhoto" href="images/space/planta_70_sala_ampliada.jpg" title="Plata do Apartamento &middot; 70,57 m²">
+                          <img src="images/space/planta_70_sala_ampliada.jpg" class="img-lazer" alt="Planta apartamento 70,57 m²" title="<h4>Plata do Apartamento</h4>&middot; 70,57 m² <br> &middot; 2 Dormitorios com uma Suite <br> &middot; Sala Ampliada com 2 ambiente <br> &middot; Varanda Grill"></a>
                         </li>
 
 
                           <!-- GARDEN DE 131 M² COM 3ds/1st -->
                         <li>
-                        <a rel="prettyPhoto" href="images/space/garden_131.jpg" title="<h5>Garden &middot; 131 m²</h5>">
-                          <img src="images/space/garden_131.jpg" style="opacity: 1; height: 220px; width: 305px; alt="Garden 131 m²" title="<h4>Garden</h4>&middot; 131 m² <br> &middot; 3 Dormitorios com uma Suite<br> &middot; Suite Ampla com Closet"></a>
+                        <a rel="prettyPhoto" href="images/space/garden_131.jpg" title="Garden &middot; 131 m²">
+                          <img src="images/space/garden_131.jpg" class="img-lazer" alt="Garden 131 m²" title="<h4>Garden</h4>&middot; 131 m² <br> &middot; 3 Dormitorios com uma Suite<br> &middot; Suite Ampla com Closet"></a>
                         </li>
 
                           <!-- GARDEN DE 138,61 M² COM 3ds/1st -->
                         <li>
-                        <a rel="prettyPhoto" href="images/space/garden_138.jpg" title="<h5>Garden &middot; 138,61 m²</h5>">
-                          <img src="images/space/garden_138.jpg" style="opacity: 1; height: 220px; width: 305px; alt="Garden 138,61 m²" title="<h4>Garden</h4>&middot; 138,61 m² <br> &middot; 3 Dormitorios com uma Suite<br> &middot; Suite Ampla com Closet"></a>
+                        <a rel="prettyPhoto" href="images/space/garden_138.jpg" title="Garden &middot; 138,61 m²">
+                          <img src="images/space/garden_138.jpg" class="img-lazer" alt="Garden 138,61 m²" title="<h4>Garden</h4>&middot; 138,61 m² <br> &middot; 3 Dormitorios com uma Suite<br> &middot; Suite Ampla com Closet"></a>
                         </li>
                  
                           </ul>

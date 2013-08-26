@@ -98,6 +98,9 @@ p {
 .color_yellow{
     color:#CDCD00;
 }
+.color_write{
+    color:#F0FFFF;
+}
 
 .button, input[type="submit"], input[type="text"], input[type="tel"], 
 input [type="email"], textarea, select {
@@ -360,7 +363,7 @@ header #logo h1 {
     font-size:130px;
     font-weight:normal;
     text-decoration:none;
-    text-shadow:3px 2px 5px #CDCDC1;
+    text-shadow:3px 2px 5px #607B8B;
     text-align:center;
     line-height:50px;
     margin-bottom:50px;
@@ -1899,3 +1902,6 @@ input[type="submit"].btn.btn-mini {
     width:25px;
     height:25px;
 }
+
+
+.img-lazer{  height: 220px; width: 285px;}
