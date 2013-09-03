@@ -17,6 +17,7 @@
                 
                 //definindo dados do servidor smtp
                 $mail->IsSMTP(); //definindo que o enviou vai  ser smtp;
+                $mail->CharSet='UTF-8';
                 $mail->Host = "xxxx";
                 $mail->Port = 587;
                 $mail->SMTPAuth = true;

@@ -83,12 +83,16 @@ include("includes/head.php");
             <td>Área Privativa do Apto</td>
             <td>&middot; 136 Aptos. Tipo 70m² - 3 dorms.(1 suíte)<br />
                 &middot; 136 Aptos. Tipo 71m² - 3 dorms.(1 suíte)<br />
-                &middot; 136 Garden - 131m² - 3 dorms.(1 suíte)<br />
-                &middot; 136 Garden - 138m² - 3 dorms.(1 suíte)<br />
+                &middot; 4 Aptos. Garden - 131m² - 3 dorms.(1 suíte)<br />
+                &middot; 6 Aptos. Garden - 138m² - 3 dorms.(1 suíte)<br />
           </tr>
           <tr>
             <td>Unidades / Pavto Tipo</td>
             <td>08</td>
+          </tr>
+          <tr>
+            <td>Elevadores</td>
+            <td>04 por Torre</td>
           </tr>
           <tr>
             <td>Total de Apartamentos</td>
@@ -365,7 +369,7 @@ include("includes/head.php");
                   <button class="btn btn-small" type="submit"  id="bntEnviar" value="Enviar"  style="<?php $styleBnt = '';echo $styleBnt; ?>">Enviar</button>
                 </div>
 
-                <div id="carregando" style="display: none"><img src="../images/icons/logging.gif" class="img_logging" /></div>
+                <div id="carregando" style="display: none"><img src="images/icons/logging.gif" class="img_logging" /></div>
                 <!--msg do envio-->
                 <span class="msg" id="msg"></span>
               </form>
